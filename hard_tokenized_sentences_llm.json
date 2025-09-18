@@ -1,0 +1,7518 @@
+[
+    {
+        "sentence": "What if Google Morphed Into GoogleOS?",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "SCONJ",
+            "PROPN",
+            "VERB",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "What if Google expanded on its search-engine (and now e-mail) wares into a full-fledged operating system?",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "SCONJ",
+            "PROPN",
+            "VERB",
+            "ADP",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "PUNCT",
+            "CCONJ",
+            "ADV",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "(And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "CCONJ",
+            "PUNCT",
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT",
+            "AUX",
+            "PRON",
+            "ADV",
+            "ADV",
+            "DET",
+            "ADJ",
+            "ADJ",
+            "ADP",
+            "DET",
+            "NOUN",
+            "SCONJ",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "NOUN",
+            "VERB",
+            "SCONJ",
+            "PROPN",
+            "PART",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "AUX",
+            "VERB",
+            "PUNCT",
+            "PRON",
+            "PRON",
+            "AUX",
+            "DET",
+            "VERB",
+            "ADV",
+            "PUNCT",
+            "CCONJ",
+            "PRON",
+            "AUX",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Does anybody use it for anything else?",
+        "errors": 1,
+        "predictions": [
+            "AUX",
+            "PRON",
+            "VERB",
+            "PRON",
+            "ADP",
+            "PRON",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "They own blogger, of course.",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Is that a money maker?",
+        "errors": 1,
+        "predictions": [
+            "AUX",
+            "DET",
+            "DET",
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I doubt the very few who actually read my blog have not come across this yet, but I figured I would put it out there anyways.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET",
+            "ADV",
+            "ADJ",
+            "PRON",
+            "ADV",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "AUX",
+            "PART",
+            "VERB",
+            "ADP",
+            "DET",
+            "ADV",
+            "PUNCT",
+            "CCONJ",
+            "PRON",
+            "VERB",
+            "PRON",
+            "AUX",
+            "VERB",
+            "PRON",
+            "ADP",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Compare the flags to the Fallujah one.",
+        "errors": 1,
+        "predictions": [
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "PROPN",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "This Fallujah operation my turn out to be the most important operation done by the US Military since the end of the war.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "NOUN",
+            "PRON",
+            "VERB",
+            "ADP",
+            "PART",
+            "AUX",
+            "DET",
+            "ADV",
+            "ADJ",
+            "NOUN",
+            "VERB",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PROPN",
+            "SCONJ",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I'm not fond of the Google-hates-privacy argument",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "ADP",
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "(You don't need to use their site, you can opt-out of sharing your information, you don't need to send stuff to anyone with a Gmail account, and if -- wonder of wonders -- you're worried that you might send something to someone who would forward an excerpt to someone who would then store it on a Gmail account... you have far, far too much time on your hands).",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PRON",
+            "AUX",
+            "PART",
+            "VERB",
+            "PART",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "AUX",
+            "VERB",
+            "PUNCT",
+            "ADP",
+            "ADP",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "AUX",
+            "PART",
+            "VERB",
+            "PART",
+            "VERB",
+            "NOUN",
+            "ADP",
+            "PRON",
+            "ADP",
+            "DET",
+            "PROPN",
+            "NOUN",
+            "PUNCT",
+            "CCONJ",
+            "SCONJ",
+            "PUNCT",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "AUX",
+            "VERB",
+            "SCONJ",
+            "PRON",
+            "AUX",
+            "VERB",
+            "NOUN",
+            "ADP",
+            "PRON",
+            "PRON",
+            "AUX",
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "PRON",
+            "PRON",
+            "AUX",
+            "ADV",
+            "VERB",
+            "PRON",
+            "ADP",
+            "DET",
+            "PROPN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "The United States doesn't believe the Iranian Government.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "PROPN",
+            "AUX",
+            "PART",
+            "VERB",
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "One can suspect the Iranian Government.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "AUX",
+            "VERB",
+            "DET",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "But there is no proof .",
+        "errors": 1,
+        "predictions": [
+            "CCONJ",
+            "PRON",
+            "AUX",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "They are certainly being nasty to the United Nations Security Council in connection with the anti-proliferation treaty.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "AUX",
+            "ADJ",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "ADP",
+            "NOUN",
+            "ADP",
+            "DET",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "The President has also said he would like to see Israel wiped off the map which he couldn't even begin to try without nuclear weapons.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "AUX",
+            "ADV",
+            "VERB",
+            "PRON",
+            "AUX",
+            "VERB",
+            "PART",
+            "VERB",
+            "PROPN",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "DET",
+            "PRON",
+            "AUX",
+            "AUX",
+            "ADV",
+            "VERB",
+            "PART",
+            "VERB",
+            "ADP",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Many people want to use diplomacy with Iran rather than military pressure.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "VERB",
+            "PART",
+            "VERB",
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "ADV",
+            "SCONJ",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "One reader pointed out that the President watched the Americans in the embassy when they took them hostage.",
+        "errors": 1,
+        "predictions": [
+            "NUM",
+            "NOUN",
+            "VERB",
+            "ADP",
+            "SCONJ",
+            "DET",
+            "PROPN",
+            "VERB",
+            "DET",
+            "PROPN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "SCONJ",
+            "PRON",
+            "VERB",
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "He has denied this.",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "We don't have to believe him.",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "AUX",
+            "VERB",
+            "PART",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "But we can't prove it.",
+        "errors": 1,
+        "predictions": [
+            "CCONJ",
+            "PRON",
+            "AUX",
+            "AUX",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Reuters reported that \"Sunni clerics in the town issued a 'Declaration by the people of Fallujah' condemning the deaths of the security guards and police, announcing three days of mourning, and calling for a general strike today.\"",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "VERB",
+            "SCONJ",
+            "PUNCT",
+            "PROPN",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "VERB",
+            "DET",
+            "PUNCT",
+            "PROPN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "PUNCT",
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "NOUN",
+            "CCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NUM",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "CCONJ",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "It read, \"The people of Fallujah condemn the massacre which was committed on Friday against people dedicated to the protection of Fallujah.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PUNCT",
+            "PUNCT",
+            "DET",
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "VERB",
+            "DET",
+            "NOUN",
+            "DET",
+            "AUX",
+            "VERB",
+            "ADP",
+            "PROPN",
+            "ADP",
+            "NOUN",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Let aggressive (American) leaders and soldiers know that we are capable of protecting the city's security and safety, and ask them to lift their hands from the city.\"",
+        "errors": 1,
+        "predictions": [
+            "VERB",
+            "ADJ",
+            "PUNCT",
+            "ADJ",
+            "PUNCT",
+            "NOUN",
+            "CCONJ",
+            "NOUN",
+            "VERB",
+            "SCONJ",
+            "PRON",
+            "AUX",
+            "ADJ",
+            "ADP",
+            "VERB",
+            "DET",
+            "NOUN",
+            "PART",
+            "NOUN",
+            "CCONJ",
+            "NOUN",
+            "PUNCT",
+            "CCONJ",
+            "VERB",
+            "PRON",
+            "PART",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "See http://www.gulf-news.com/Articles/news.asp?ArticleID=97508",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "It's just disappointing.",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "PUNCT",
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "At that time, UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours.",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "On the other hand, this is essentially a statement that the company is overpriced from the guy who knows it best -- and happens to be the best investor of the last century.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "i.e.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "...",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Wtf is this?",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "WASHINGTON (Reuters) -",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Waheed Zaman, 22, London E17",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Tayib Rauf, 21, Birmingham",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Shazad Khuram Ali, 27, High Wycombe",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "X",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Tanvir Hussain, 24, London E10",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Umar Islam, 28, (born Brian Young) High Wycombe",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "NUM",
+            "PUNCT",
+            "ADP",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Asad Ansari, 21, Mississauga;",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Jahmaal James, 23, Toronto;",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PUNCT",
+            "PROPN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "(On what evidence?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Clinton had worked out a deal with Pakistani Prime Minister Nawaz Sharif in summer of 1999 that would have allowed the US to send a Special Ops team in after Bin Laden in Qandahar, based from Pakistan.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I presume you need the Pakistan base for rescue operations in case anything went wrong.",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "You also need Pakistani air space.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Of course, you could just go in by main force.",
+        "errors": 1,
+        "predictions": [
+            "ADP",
+            "DET",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "It should be easily googled.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "i don't think so.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "AUX",
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "i'm the king",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "PART",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "yeah",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "sounds exciting.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "you know, whatever.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "SCONJ",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "like what?",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "i can think of a few things",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "ADV",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "your retarded.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "i used to have one.",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "they are great dogs.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "cockerspaniels are retarded.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "why do you think i should get one of those?",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "nice sarcasm.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "i can't wait",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "VERB",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "someplace that is like $30 an entree.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "what do you think?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "real nice.",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "my bad.",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "bet?",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "colorado beat texas a&m.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "PART",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "no.",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "what happened to you?",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PRON",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "no i am not lying.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "i flew here last night.",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "are you lying?",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "i am in portland.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Someone told me that Chase is planning a shitload of layoffs.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I am not sure how reliable that is, though.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Mike McConnell",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "07/06/2000 14:57",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "John,",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Hello from South America.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "ADP",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "He has maintained a good relationship with Mulva.",
+        "errors": 3,
+        "predictions": [
+            "PART",
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "This was a risk that we had but we did have assurances from Phillips regarding performance.",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "When you discussed it, i was trying to think back to our remedies and discussions but the 3 years have made it difficult.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I don't know if there is anything I can do but I'm always willing to help.",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Good luck,",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Mike",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Dear Mr. Lavorato:",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "Not going well",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hello Louise,",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "M",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Please update daily",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Louise,",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Original Margin Call Margin Due Today",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "AEP $19,250,000 $38,750,000",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "PUNCT",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "------------------------------",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Totals $22,750,000 $40,000,000",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Please let us know if you need any additional information.",
+        "errors": 1,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Stephanie",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "I'll need to ponder.",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "FYI.",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "We have this report?",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PART",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Hi David:",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Best,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Jeff",
+        "errors": 1,
+        "predictions": [
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "Well, he launched today.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "PUNCT",
+            "AUX",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "Have you seen the materials from the press conference that he launched today?",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "I think this is actually a good thing--makes our proposal look like a much more preferable alternative by comparison, makes our support in the process more important, and sets Harvey up as the Ralph Nader equivalent in the election to fix California's broken system---a potential spoiler.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Hi.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Well, wouldn't you know it.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "I'm not driving tonite, but I bet that we could hitch a ride back with Anil.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "we are finished.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "AUX",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Since work has gone to hell, I am hoping to find some excitement in the possibility that LSU may play in the Cotton Bowl (if Rohan \"Alabama\" Davey shows up for the next 3 games.)",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "http://www.theadvocate.com/sports/story.asp?StoryID=16473",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "http://www.theadvocate.com/sports/story.asp?StoryID=16475",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsunotes08.html",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/secnotes08.html",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsufoe08.html",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "why is enron blowing up?",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "i didn't want you to go.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "enron is blowing up.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "Vince,",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Further to my voicemail, our colleagues in credit are calculating the reserve on the PSE swap.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "They are currently using 9.5% fixed based on the 1 year implied volatility.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Sid",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Vincent,",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "I met you at the Risk conference last week in Houston.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I enjoyed your presentations very much.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thank you.",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Andrew Edison@ENRON",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "06/02/2001 10:53 AM",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hall has agreed to release Enron, Ecogas, Maffett and every affiliate, related party and subsidiary.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "SYM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "He will also release any and all patent issues.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Please handle.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Becky Stephens@ENRON",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "06/12/2000 10:20 AM",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "PART",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Richard, below is a list of oc invoices sent to you for approval on 5/30/00.",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "X"
+        ]
+    },
+    {
+        "sentence": "Michael L. Beatty & Associates, PC; #10461, #10469 & #10468 dated 5/28/00.",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I am on board.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "If the PX comes back again, I will call their in-house attys.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Christian Yoder/ENRON@enronXgate",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "06/04/2001 05:54 PM",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "Can you pass this along to Elizabeth to ensure Sanders is on board as well?",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "We are renewing our L/C's on a month to month basis for the PX per Sanders.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "However, the request below is to \"replenish\" the CASH that was drawn down...please advise.",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "----cgy",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Tracy, Do we have concerns here.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Attached below is Davis Thames' presentation regarding the proposed Project Bruin.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I will forward the draft Bear Stearns term sheet separately.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks -",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "sara",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "My assistant Joanne Rozycki has cell, car numbers to reach me.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thanks.",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "SS",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Sara,",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I will extract the one for the US corporate Paragraph 13 and email to your contact @ First Union Securities.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The sample includes our \"caveat\", so it should be fine.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Susan:",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Just our standard.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Thanks.",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Sara",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "First Union Securities, Inc.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hi Sara,",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I just wanted to follow up on whether you will have a chance to send a draft Credit Support Annex (similar in form to the one previously executed with ENA).",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I understand you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks and regards,",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Vijay K. Suchdev Vice President Equity Derivatives First Union Securities, Inc. Telephone: (212) 909-0951 Facsimile: (212) 891-5042 email: vijay.suchdev@funb.com <mailto:vijay.suchdev@funb.com>",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Michael Olsen@ENRON",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "12/07/2000 02:29 PM",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "Thanks.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "D",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Daren",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "I show that we also had 20.000 at LS HPL for the 13th.",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "Daren",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "August 11,2000",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "LS HPL LSK IC 20.000 / Enron",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "LS HPL LSK IC 20.000 / Enron",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "August 13, 2000",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Now at 83.5.",
+        "errors": 3,
+        "predictions": [
+            "SCONJ",
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Hope you're doing good.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "???",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "KEEP UP THE GOOD WORK.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "?",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "WE AT HOME LOVE IT AT $80+++",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "?",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "KEN",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "These have been sold.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Geoff,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Looks like the kids had a great time!",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "If you want a CD copy of this web site, give me a yell.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Thanks,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "- Ram Tackett (E-mail).vcf 4222",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Debra Perlingiere",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Debra Perlingiere",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "dp",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Thanks!",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Today is good 12:30 ?",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Cafeteria is fine.",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "I'm free any day but Tuesday.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "NUM",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thank you though.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "AUX",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Are you free for lunch some day this week?",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PRON",
+            "ADJ",
+            "ADP",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I am bringing two of my girlfriends from LJ.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Debra Perlingiere",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "ok call me",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Maybe 12:15?",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Cafeteria is fine.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Thank you though.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PROPN",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Move-Team@ENRON",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "09/20/2000 03:22 PM",
+        "errors": 3,
+        "predictions": [
+            "ADP",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thank you for you patience.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The Dow topped out in February of 1966 at 995.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The Dow then rallied to a high of 943 in September of '67.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "By March of '68 the Dow had fallen to 825, only to climb to a highly speculative peak of 985 in December of '68.",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The Dow then sank to 631 in December of '70.",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "By April of '71 the Dow had climbed back to 950, only to fall to 869 in February of '72.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "A big rally then took the Dow (unconfirmed) to a record high of 1051 in January of '73, turning everyone bullish.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Think that was bad - by December of '74 the Dow had sunk to a bear market low of 577.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "DEBRA PERLINGIERE",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "09/20/2000 09:32 AM",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Many thanks!",
+        "errors": 2,
+        "predictions": [
+            "PART",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Debra Perlingiere",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "Edward Terry",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "09/08/2000 09:55 AM",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "FYI,",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Robert D Morgan",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "09/08/2000 09:36 AM",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "fyi",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "i tried to say i wasn't that drunk but z wasn't having any of that conversation.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "she said that was ok.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it's normal to drink all day at a bar, then go to dinner where you don't know half the people there and proceed to get extremely fucked up",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Privileged/Confidential Information may be contained in this message.",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "In such case, you should destroy this message and kindly notify the sender by reply email.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Job ID: J12746KM",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Job Title: Attorney",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Description:",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Our client is a small law firm that is looking for an individual to join their team handling toxic tort with some minor PI defense.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "KM",
+        "errors": 1,
+        "predictions": [
+            "PART"
+        ]
+    },
+    {
+        "sentence": "Requirements:",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Company:",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "thanks",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "I've thought about you a few times in the last few months, didn't want to intrude upon an already bad situation with my bullshit questions.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "I wish I had the capital to open my own shop?",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I'll ask around?",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "not sure how much longer ene is going to be around and i'm checking out my options!",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Rodgers",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Please let me know what shape you all think the offer ought to take and we can revise accordingly.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Elizabeth 36349",
+        "errors": 2,
+        "predictions": [
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "see you there at 4:00 unless I call you",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Mark E Haedicke",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "02/28/2001 03:16 PM",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "PART",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Please be brief!",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Mark E Haedicke",
+        "errors": 3,
+        "predictions": [
+            "ADP",
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Sent by: Janette Elbertson",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "02/28/2001 04:41 PM",
+        "errors": 1,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thank you.",
+        "errors": 1,
+        "predictions": [
+            "SCONJ",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Mike Curry",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "11/14/2000 11:37 AM",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "yuk.",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "so sorry to have to cancel",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "X"
+        ]
+    },
+    {
+        "sentence": "that deal is making like it wants to close and the traders scheduled a 430 call to wrap it up",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "X"
+        ]
+    },
+    {
+        "sentence": "don't they know we have better things to do",
+        "errors": 3,
+        "predictions": [
+            "X",
+            "PROPN",
+            "X"
+        ]
+    },
+    {
+        "sentence": "here is to getting back on track after thanksgiving",
+        "errors": 3,
+        "predictions": [
+            "X",
+            "PROPN",
+            "X"
+        ]
+    },
+    {
+        "sentence": "sorry again",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "per my vm",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "John Lamb@ENRON",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "11/15/2000 11:58 AM",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Please feel free to give me a call if you have any questions concerning the attached guaranties.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thank you.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "- PPA Guaranty.doc",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "- GPSA Guaranty.doc",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "- REDLINE GPSA Guaranty.doc",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "?",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Sheila Tweed",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "03/26/2001 08:58 PM",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Mary Hain",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "03/23/2001 12:24 PM",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "AUX",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I enjoyed working with you and wish you the best of everything.",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "My new address will be: Mary Hain Senior Regulatory Counsel ISO New England Inc.One Sullivan Road Holyoke, MA 01040-2841 (413) 535-4000 mhain@ISO-NE.com",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Events change everyday.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "This morning's paper reports that a rate increase of 40% may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion (rather than the 10 initially discussed)",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Mark",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Elizabeth 36349",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "see you there on court 10",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I faxed comments to you on dash.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Do you have any current info on deal status?",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Elizabeth 36349",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Vince,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "I have just checked with RAC (David Gorte) and we have a green light to go ahead with the project.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Vince",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Vince:",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "I just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Perhaps, we should start with just a 1 or 2 day contract where I give some thoughts to the kind of issues that we discussed and come to Houston to present my preliminary thoughts and possible avenues for additional work.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "regards,",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Sheridan",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Sheridan Titman Department of Finance College of Business Administration University of Texas Austin, Texas 78712-1179 512-232-2787 (phone) 512-471-5073 (fax) titman@mail.utexas.edu",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Bryan,",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "David,",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "A reminder.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Please, let me know.",
+        "errors": 1,
+        "predictions": [
+            "INTJ",
+            "PUNCT",
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "42299",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Vince",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "01/24/2001 03:51 PM",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Hi Kevin,",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I'll try and send one of Peter Cox' as well but may have some problems due to file size.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "In any event, my presentation should give you a starting point.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Mike",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "- Cfoforum.ppt",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Darrell,",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Thanks a lot.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "A quick question: we haven't received your invoice for the last few model / paper reviews.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Vince",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Darrell Duffie <duffie@Stanford.EDU> on 01/24/2001 03:17:01 PM",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Please respond to Darrell Duffie <duffie@Stanford.EDU>",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Vince/ Taiichi",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "In case you are interested, I attach this paper on gas Storage value modeling.",
+        "errors": 3,
+        "predictions": [
+            "NUM",
+            "NUM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Best,",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Darrell",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "_____________________________________________",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "_____________________________________________",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "- Paper4.pdf",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Al,",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "(713) 853-7408",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Vince J Kaminski",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "01/24/2001 11:21 AM",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Al,",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "I have called Mark Lay and left a message on his voice mail.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Vince",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Vince:",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Your suggestion to introduce the concept discussed with one of the Lays is welcomed.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Enron could be an ideal environment from which to the concept enhancement through to commercialization could be successfully accomplished.",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Please confidentially share matters as you think best and advise me of the interest generated.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I am ready to meet there at your building or elsewhere that is appropriate.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Best regards,",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Martin,",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "No problem.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Please, ask Stinson as well.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Vince",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Thanks,",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Martin",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "KK",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Kam,",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Thanks,",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hey,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "I wish I could make it.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Hey guys,",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Jeff",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Could you run those additional post-id's?",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "There are deals in the Aruba book so I'm not sure why you aren't picking those up.",
+        "errors": 3,
+        "predictions": [
+            "SCONJ",
+            "VERB",
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "EY4096.3 PERFORMANCE 01-Feb-02 P 202,989 $ 195,610",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "EY4108.F PERFORMANCE 01-Feb-02 P 112,610 $ 110,555",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "EY4108.I PERFORMANCE 01-Feb-02 P -10,274,494 -$ 166,960",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "As seen below,",
+        "errors": 2,
+        "predictions": [
+            "SCONJ",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "could you also CC me the first few times you send it?",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "All p&l and PRMA numbers should be in $'000's.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Starting in February, you will be able to export the data, as opposed to using the spreadsheets.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks,",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Greg Couch will be taking over the responsibility for the estate risk group and will be able to assist you with your requests going forward.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Kam",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Ed,",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Here is a list of the risk people that will be with the estate.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "PRON",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "After this weekend, we will no longer have access to the estate files, these people will be able to help you with any of your questions.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "We will still be around to assist them if needed.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "KK",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Here you go...",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "AC",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Sanjeev,",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "After friday, I will no longer have access to the estate, so if you could shoot this off over night so I could have something in the morning to work with I would appreciate it.",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Kam",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Hi I´m from Brazil and I want to know of book 06.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "what's your opinion?",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "ADP",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "leli",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "its good.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "pairing up of harry and ginny is cool",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "An orphaned, two-month old African elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends 'The Bateleurs'.",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "Hello,",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "We look forward to your active participation to make this forum an exciting meeting place for like minded individuals.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "complete with original Magnavox tubes- all tubes have been tested they are all good- stereo amp",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Heterosexuals increasingly back gay marriage",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "PROPN",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Deb Price",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "*",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "**",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Good Morning* *",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Have a Nice Day* **",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "PUNCT",
+            "X"
+        ]
+    },
+    {
+        "sentence": "**",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "--",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Thanks and Regard",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Rajendra",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "rajendra.o...@gmail.com",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "image_gif_part",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "81K Download",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "The story had brillant battle scenes, lovable heroes and villians, a compelling story line, and it left me dying for the next part of the series:) go to taleofterra.com to learn more aboout it",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Email: Roving Mouse <s...@tack.net>",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT",
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Followup-To: alt.animals",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "..",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Email: franz371...@gmail.com",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Reply",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Email: \"Ian\"<ian.gilb...@btinternet.com>",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Groups: alt.animals.cat",
+        "errors": 2,
+        "predictions": [
+            "CCONJ",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Please do visit us and feel free to browse the site at www.southbhamcats.org.uk",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "PS - we also have more cats coming in for re-homing see our 'Homes Wanted' page",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks for looking",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PUNCT",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Ian - Webmaster www.southbhamcats.org.uk",
+        "errors": 2,
+        "predictions": [
+            "SYM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The India Diaries",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Portia",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Best,",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Cindy",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "\"...there is no companion quite so devoted, so communicative, so loving and so mesmerizing as a rat.\"",
+        "errors": 1,
+        "predictions": [
+            "PUNCT",
+            "PUNCT",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "~CGoehring",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Email: Anthony Beavers <CognitiveScienceN...@gmail.com>",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT",
+            "X",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Posted by Anthony Beavers to Cognitive Science News at 8/28/2005 07:18:20 AM",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "*Worldwatch Projects Catastrophe Will Be Most Costly Weather-Related Disaster in History*",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "*Washington, D.C.-*",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "According to many scientists, the early results of global warming—90 degree Fahrenheit water temperatures in the Gulf and rising sea levels—may have exacerbated the destructive power of Katrina.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "http://reflectioncafe.blogspot.com/2005/09/unnatural-disasterthe-less...",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Email: n3td3v <xploita...@gmail.com>",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "** Google defies US over search data **",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "< http://news.bbc.co.uk/go/em/fr/-/1/hi/technology/4630694.stm>",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Choose the news and sport headlines you want - when you want them, all in one daily e-mail",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "** Disclaimer **",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Please note that neither the e-mail address nor name of the sender have been verified.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "PUNCT",
+            "X"
+        ]
+    },
+    {
+        "sentence": "http://news.bbc.co.uk/1/hi/help/4162471.stm",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "[http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=624569&section=news]",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "REUTERS/Jason Reed",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Selah!",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "--",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Email: BlackBayou <BlackBa...@excite.com>",
+        "errors": 3,
+        "predictions": [
+            "X",
+            "ADP",
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "Groups: alt.animals.cat",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I started this page to help with my boredom.",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "My wife and I would love for you to come and visit our page",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "732-657-3416",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "732-657-3416",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Any orders at or over $500.00 an additional 10% off the total order.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "X",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "We accecpt: Visa, MasterCard, Amex, Dinners Club/Carte Blanche, & Personal Checks/Money Orders.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Wei's Magic Cubes",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "He is regarded as one of the leading Avant-Garde artist of modern calligraphy.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "[http://news.zdnet.co.uk/internet/0,39020369,39187928,00.htm]",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Photo from Technology News",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "(ZD Net)",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "More below.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "It will be interesting to see whether or not Google will finally slay the Microsoft Goliath, who has known no major defeat and seeks to vanquish all competition.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "--",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Email: \"Ruth\"<ruth.penyc...@bbc.co.uk>",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Hello there",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Otherwise, hope to see you there!",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Kind regards",
+        "errors": 2,
+        "predictions": [
+            "CCONJ",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Ruth Penycate www.bbc.co.uk/actionnetwork",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Winston Peters is visiting a school.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "X",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "In one class, he asks the students if anyone can give him an example of a \"tragedy\".",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "One little boy stands up and offersthat, \"if my best friend who lives next door was playing in the street when a car came along and killed him, that would be a tragedy\".",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "\"Wonderful!\" Winston beams.",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "\"Marvelous!",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "And can you tell me WHY that would be a tragedy?\"",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "[http://www.space.com/astronotes/astronotes.html]",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Photo from Space.com",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "SYM",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "With their proposal of a \"Earth-Moon\" highway, it looks like space tourism may become a reality sooner than we think.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Selah!",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "--",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Posted by Hidden Nook to Hidden Nook at 2/15/2005 05:12:00 PM",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "[http://www.space.com/missionlaunches/ft_050829_ksc_spacefuture.html]",
+        "errors": 1,
+        "predictions": [
+            "NUM"
+        ]
+    },
+    {
+        "sentence": "(Space.com)",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo-era Saturn 5, the most powerful rockets ever flown.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "It looks as if NASA is transitioning away from the shuttle model, as in the past they have proven to be quite dangerous as Columbia has recently proved.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...",
+        "errors": 1,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The new rocket design will differ slightly from it's predecessors, in the fact that the crew and cargo would launch separately from two different rockets each and join up in space later on.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Launching this way will hopefully avoid future disasters, giving more support towards NASA revisiting the stars.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "--",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "George and Lynne",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "image001.jpg",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "51K Download",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Funny stuff",
+        "errors": 2,
+        "predictions": [
+            "SCONJ",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "lifted from another list",
+        "errors": 2,
+        "predictions": [
+            "PUNCT",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Amy:-)",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "- Eleanor Roosevelt",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "ADV",
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "Visit people only once a year.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "VERB",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I was married by a judge.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "- Groucho Marx",
+        "errors": 3,
+        "predictions": [
+            "SCONJ",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "My wife has a slight impediment in her speech.",
+        "errors": 1,
+        "predictions": [
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I have never hated a man enough to give his diamonds back.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "PART",
+            "VERB",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Only Irish coffee provides in a single glass all four essential food groups: alcohol, caffeine, sugar and fat.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Money can't buy you happiness... but it does bring you a more pleasant form of misery.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Until I was thirteen, I thought my name was shut up.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Youth would be an ideal state if it came a little later in life.",
+        "errors": 3,
+        "predictions": [
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Then it's time for my nap.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "- Bob Hope",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "PROPN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Don't worry about avoiding temptation... as you grow older, it will avoid you.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "- Winston Churchill",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Maybe it's true that life begins at fifty... but everything else starts to wear out, fall out, or spread out.",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "- Phyllis Diller",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "------",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "- Billy Crystal",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "__________________________________________________",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Do You Yahoo!?",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "PRON",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Tired of spam?",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "image_jpg_part",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "52K Download",
+        "errors": 1,
+        "predictions": [
+            "SYM"
+        ]
+    },
+    {
+        "sentence": "portuguese",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "spanish",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Green Tea Or White Tea?",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Green",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Green Tea.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Green tea",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "It is a place in Argentina lol",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Not me sorry.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Does anyone know of any good food in iguazu?",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Not me sorry.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "=)",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Mountains, cliffs, peat bogs, valleys",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PUNCT",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Do you know the online streaming link for Red FM 93.5 delhi ?",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "any format url ?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Υes.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "how fare of kolkatta?",
+        "errors": 1,
+        "predictions": [
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "kolkatta is an Indian State.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "roflmao",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "I like shrimp,fried,grilled,or steamed.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "crab",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "shrimp",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "E-mail: memberservices@worldresortsinternational.com",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "m",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "http://www.kettererkunst.com/bio/GuntherUecker-1930.shtml",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "His work",
+        "errors": 2,
+        "predictions": [
+            "ADP",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "http://www.google.com/search?hl=en&rlz=1G1GGLQ_ENUS359&q=gunther+uecker+biography&gs_sm=c&gs_upl=484l484l0l5093l1l1l0l0l0l0l328l328l3-1l1l0&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi&biw=1221&bih=756&sei=XVG5TqrrGoXK2AXG0ry-Bw#um=1&hl=en&rlz=1G1GGLQ_ENUS359&tbm=isch&sa=1&q=gunther+uecker+artist&pbx=1&oq=gunther+uecker+&aq=1S&aqi=g1g-S3&aql=&gs_sm=c&gs_upl=10219l10219l0l13797l1l1l0l0l0l0l125l125l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=13ddcdc64cbf5fd&biw=1221&bih=756",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Well they play the Wii like me :)",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "PUNCT",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Is Hank Green Awesome?",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "weather in december in Tremblant?",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Typically it's cold.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Fun picture websites (:?",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "NOUN",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Thank you (:",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "PUNCT",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Ifunny.com",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Make a mold.",
+        "errors": 2,
+        "predictions": [
+            "SCONJ",
+            "DET",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Cast.",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "thick cut bacon or really good sausages",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Yes.",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "mazzoni's deli best italian food in phila pa?",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "is mazzoni's deli at 3901 conshocken ave in phila pa really the best italian food in the country???",
+        "errors": 1,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "because all of the food blogs Ive read say so and I will travel from maryland if thats true",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "yep",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "It's okay if it's a little pricier.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Rumba Room",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Theyre probably just drawn for the show anyways.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "VERB",
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Cotton Candy",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Corn Dog",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Candy Apple",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Meat Kabob",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Monkey Brain.",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Because obviously most people have never even heard of this section.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "What do you think of Air France?",
+        "errors": 3,
+        "predictions": [
+            "AUX",
+            "PRON",
+            "ADV",
+            "VERB",
+            "ADP",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I love Air France!",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "expensive",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "I'm considering taking a job with Steiner and noticed I have to pay for all my travel.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I haven't personally but I know a couple of people who have.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "PART",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "http://www.prosperitypos.com?p=ya",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "thanks",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "B&w.",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Bose is not good",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PUNCT",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "USPS Delivery in Auckland,NZ?",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "VERB",
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "its a gift from my brother.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "i always thought theres no custom charges for gifts.",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "Yup.",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "24 hour fast resturants near by?",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Nearby what?",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "PORTILLO'S OR WHITE CASTLE! :D",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I'm just curious.",
+        "errors": 3,
+        "predictions": [
+            "INTJ",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Bay of Plenty- Are you even old enough to vote?",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "PROPN",
+            "PUNCT",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "hahaha",
+        "errors": 1,
+        "predictions": [
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "not sure yet",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Maybe Labour.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "John Key is too busy looking after his rich mates, while the rest of us pay.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "In our hand luggage or do we have to put it into our checked luggage?",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Yes.",
+        "errors": 1,
+        "predictions": [
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "We'll see you on 'Border Patrol'",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Studying in Quebec,Canada?",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "SCONJ",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "If I went into the \"pre-university\" direction with business administration in mind.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Say after I finished those 2 years and I found a job.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thank you",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "You should be able to no problem.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "PART",
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Background support systems.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Or background stands",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PROPN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "buy them in any good photography supplies shop.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "frame",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "thumbs down???",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "http://www.google.co.uk/search?q=backdrop+frame&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&safe=active&sout=1",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Backdrop stand.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "None of the above.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Will USB cell phone chargers still charge even if they're hooked up to a computer that is turned off?",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Mine does.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "A taste of Argentina.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "AUX",
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "You will find these helpful in writing a new slogan.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "A Look at Slogans - http://www.small-business-software.net/look-at-slogans.htm",
+        "errors": 3,
+        "predictions": [
+            "X",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Goodluck!",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "I need creative art ideas?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PRON",
+            "AUX",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "use photoshop.",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "tttthhhhh Madonna!",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Does a pacman absolutely need a uv lamp?",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Try SanFranGuide.com",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "for the past few days she has been shivering and wont eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "How much would it cost for me to take me and three friends to Andiamos restaurant for dinner?",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "X"
+        ]
+    },
+    {
+        "sentence": "http://sanfranguide.com/restaurants/",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "try yelp.com",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Depends of what.",
+        "errors": 2,
+        "predictions": [
+            "SYM",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "20 fluid ounces in a Pint in Ireland",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "ADP",
+            "DET",
+            "NOUN",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "i love The Script and know there from iraland.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "DET",
+            "PROPN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I think you will be pleased.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "*Ireland",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "they do some good waterproof raincoats",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "heres the link:",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "http://www.debenhams.com/women/craghoppers#catalogId=10001&lid=//productsuniverse/en_GB/product_online0Y/categories%3C0productsuniverse_186610/brand_description0.000000E+000craghoppers0/categories%3C0productsuniverse_18661_186820&ps=default&sfn=Categories&sfv=Coats+%26amp0+jackets&storeId=10001",
+        "errors": 1,
+        "predictions": [
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "That's because of the buffer that holds the data until it's ready to be recorded to the memory card.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I know its in the wrong catagory, but still, I wrote this question for a reason, not for you to critisize me.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Do you get what's wrong with this picture?",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "No...that's all.",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "No second.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Fast food chains, supermarkets, dairies",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "you're mad!",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Red Robin.",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "Fudruckers.",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "idk ur choice",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Chain?",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "http://www.hackneys.net/",
+        "errors": 1,
+        "predictions": [
+            "X"
+        ]
+    },
+    {
+        "sentence": "http://www.hackneysprintersrow.net/",
+        "errors": 1,
+        "predictions": [
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "http://www.youtube.com/watch?v=q2lDF0XU3NI",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "http://www.flickr.com/photos/jellybeanjill13/532522805/",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "What should I do?",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "PUNCT",
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "What could it be?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "VERY CONCERNED!!!",
+        "errors": 2,
+        "predictions": [
+            "NUM",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "or has acquired some type of disease and that too needs to be attended to...",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "It was pretty epic as I remember and would love to send my friend there.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Any help?",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "What's the best time to start a trip around the world?",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "If you have to wait, due to financial reasons, then wait.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "thanks!",
+        "errors": 1,
+        "predictions": [
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "I would agree.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Call Canon",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "I'm going on a vacation to the Philippines in May 2012, and I'm starting from Raleigh, NC (RDU Airport).",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I usually use ZebraKlub.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PART",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "They basically buy daily deals from Groupon, Living Social, and all sorts of other places.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "gotta go.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I know saltwater is a possibility, can you give me a possible stocking option for that too?",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "VERB",
+            "NOUN",
+            "ADP",
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Great deals, great pizza!",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "AUX",
+            "ADV",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Awesome service with a smile :)",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "CCONJ",
+            "ADJ",
+            "NOUN",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "WHAT A GREAT DEAL THANK YOU",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "The best pilates on the Gold Coast!",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Dessert was good.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "wow wow wow.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Tire Gooroo",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "David Bundren is the Tire GooRoo.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "good",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "they recovered the pics geeksquad deleted.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "many thanks",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "local crew!!!",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Nice Top Lights.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "the service is quick.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Yeah they ruined some shirts I had too.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADV",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Horrible!",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "very reasonable prices.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "quick in & out.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Thanks!",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Friendly service.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Thanks again!",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Definetely going back",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Wonderful Wonderful People!",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Thanks Southland.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Good food.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Great wings!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Don't bother.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "The finest German bedding and linens store.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Quality and service come first here.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Place is legit.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADP",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "We got upgraded to a corner suite!",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Room was amazing.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Linda",
+        "errors": 1,
+        "predictions": [
+            "INTJ"
+        ]
+    },
+    {
+        "sentence": "I love this place lots of people to talk to and school is across the street!",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Who does that?!",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Kyle with Bullwark",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Great job!",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Thanks!",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "YUM",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "This is a Ralph's",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "AUX",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "Hospitality.!",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Keep it up.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "AUX",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "- Shree Ghatkopar Bhatia Mitra Mandal",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Ladies room, Open Sundays",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "AUX",
+            "VERB",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "This is a great place to get a permit",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "I had to get a permit here, it was cool",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "best",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Darla is amazing, I would recoment her to anyone.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "kudos to Allentown Post Office staff",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "ADP",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "service could be a little better but its an all round good place",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Amazing service!",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I just had the best experience at this Kal Tire location.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "STAY AWAY",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Horrible service.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Absolutely rude.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Did services I asked them NOTto do and was still charged.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Highly recommended",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "The best climbing club around.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hooray for Craggy.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "telephone number",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "thank you",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "the team at barton car wash was very friendly .",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "CCONJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "i was very pleased with the service.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "ADJ",
+            "ADP",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Poor Taste",
+        "errors": 2,
+        "predictions": [
+            "CCONJ",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "CLH",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Sent scented flowers home instead of postcards.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Worst experience ever like a sardine can and the bartender downstairs is the rudest person I have ever met.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "DONt Go here",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Rude and Untrustworthy",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "CCONJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Do not trust them!",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "VERB",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Good food, good location, and good prices.",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Old time grocery, best steaks I have ever had!",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "DET",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Great meats that are already cooked, easy to take home for dinner.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "ADP",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Inford Media",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Drum and bass as standard.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "DET",
+            "NOUN",
+            "VERB",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Very rude and unprofessional.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "NOUN",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "ipad reiew",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Pam the Pom",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Fantastic couple of days.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Breathtaking views and fabulous accommodation.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "They treat there employees with respect and concern and expect that they will extend the same politeness to there customers.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Best Electrician in Florence",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Highly recommended.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Not impressed.",
+        "errors": 1,
+        "predictions": [
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I won't return.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Extremely greasy.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "The management and staff are superb.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Winning Attorney!",
+        "errors": 1,
+        "predictions": [
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Sanctuary is amazing!",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "AUX",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "And they deliver!",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "What a Preschool!",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "What a Dump!",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "ADP",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "The food is terrible.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX",
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "The place smells and the owner is very very rude!",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Just don't go there.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "VERB",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "house closing",
+        "errors": 2,
+        "predictions": [
+            "PART",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Food is often expired so check the dates every time!",
+        "errors": 2,
+        "predictions": [
+            "X",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "No complaints",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "THIS IS THE WORST SCHOOL IVE BEEN TO!!!!!!",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Staten Island Computers",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "not impressive enough",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "It's a fine place, I'm just a little mystified about the Michelin star.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "exelent Job",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "An Hour Of Prego Bliss!",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "DET",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Very friendly place.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Love Hop City",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "This place is great!",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "NOUN",
+            "PUNCT",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Excellent energy efficiency",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "A fast service, saved a bad situation getting alot worse.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "many thanks 2scompany...",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "The restaurant is the most beautiful thai restaurant in Geelong... just love it",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Fresh and unic!",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Bravo!",
+        "errors": 1,
+        "predictions": [
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "OK Food, Slow service",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "VERB",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Fantastic professional service -",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "So delightful.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "What a group!",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "ADV",
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "I wouldn't want any other company in my time of need.",
+        "errors": 3,
+        "predictions": [
+            "PART",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Great people!",
+        "errors": 2,
+        "predictions": [
+            "AUX",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "So professional!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Way to go!",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Terrible customer service",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Bad Service",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Not impressed!!!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Best Limo Limousine service in all of Dallas",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "They specialize in financial institutions, medical, and retail projects.",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "The waiting staff is really friendly, its like every one knows each other, the manager is really sweet and the food..well no complaints from me.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I had no problem with my delivery.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "VERB",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Out of business?",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "PART"
+        ]
+    },
+    {
+        "sentence": "I think this location is no longer in business.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADV",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Awesome Landscaping Job",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "SCONJ"
+        ]
+    },
+    {
+        "sentence": "Highly recommended landscaper!!!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "spot on",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Feel good",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Worst Tasting Pizza",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I don't recommend this place to anyone or even anything to eat.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Not so good",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Bland and over cooked.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADV",
+            "ADJ",
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "But not so.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "Call them today!",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I was very upset when I went to Mother Plucker, they had NO FEATHERS and the quality is TERRIBLE.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV",
+            "AUX",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "I would not hesitate to use him again or refer him to my family or friends.",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I own a property management firm and need a contractor with the credentials that Farrell Electric has.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "The rooms were very clean and the breakfast was excellent.",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Don't waste your money on the jukebox",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Not enough seating.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "spoken english rushi",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Rubbish",
+        "errors": 1,
+        "predictions": [
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Noticed a few of these Cookie cutter places opening in Summit and New Providence.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Great place",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Really great service and kind staff.",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "I plan on going again.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Amazing customer service",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "the apartment only looks good outsize, inside is too bad.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "great tmobile service",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Walgreens on University",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "Good selection.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Love this place!!",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "AUX",
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Has another store in the st. charles mall.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Bad place.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "I love them!!!",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "BEST DENTIST EVER -",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "NOUN",
+            "CCONJ"
+        ]
+    },
+    {
+        "sentence": "This is a great place to shop.",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Highly recommended.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "3 thumbs up.",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Bon appetit!",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "I highly recommend Garage Pros to my friends.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "umm...",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "The food is always fresh and delicious.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "AUX",
+            "ADJ",
+            "PUNCT",
+            "CCONJ",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "It can be a little on the spicy side but just ask them exactly what you want and they are very helpful.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "It was late in the day and I was worried I would get charged an arm and a leg and have to wait forever.",
+        "errors": 1,
+        "predictions": [
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Great service",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "Don't judge a book by its cover",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "This couldn't be farther from the truth.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "PART",
+            "VERB",
+            "ADV",
+            "ADV"
+        ]
+    },
+    {
+        "sentence": "The food is amazing, and the prices cannot be beat.",
+        "errors": 1,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Great work!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Thanks",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Natasha",
+        "errors": 1,
+        "predictions": [
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Always professional and reliable, sessions are good fun and suitably challenging.",
+        "errors": 1,
+        "predictions": [
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "slow service",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Great service",
+        "errors": 2,
+        "predictions": [
+            "ADP",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "Absolutely amazing job!",
+        "errors": 3,
+        "predictions": [
+            "VERB",
+            "PRON",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "She makes every item fit you perfectly.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "She's the best!",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "teeth",
+        "errors": 1,
+        "predictions": [
+            "DET"
+        ]
+    },
+    {
+        "sentence": "Which should be a private issue",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Thank you!",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "A TERRIBLE EXPERIENCE!",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "ADP"
+        ]
+    },
+    {
+        "sentence": "I remain unhappy.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "I wouldn't recommend this place last year, and I certainly wouldn't recommend them this year.",
+        "errors": 3,
+        "predictions": [
+            "NOUN",
+            "ADP",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Hidden Treasure.",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Go in and you will not think you are in Chesapeake.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Excellent medical care!!!!!!",
+        "errors": 2,
+        "predictions": [
+            "INTJ",
+            "PRON",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "Highly recommend",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Wonderful staff and physician.",
+        "errors": 3,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "VERB",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Clean and superb.",
+        "errors": 2,
+        "predictions": [
+            "ADV",
+            "DET",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Thanks for the great care!!!!",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "excellence in glasgow",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "The team who work there are helpfull, friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice.",
+        "errors": 2,
+        "predictions": [
+            "PROPN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Highly recomended.",
+        "errors": 2,
+        "predictions": [
+            "VERB",
+            "PRON"
+        ]
+    },
+    {
+        "sentence": "My favorite place...",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "ADV",
+            "VERB"
+        ]
+    },
+    {
+        "sentence": "A Definite No",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "AUX",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Incompetent servers, kitchen and management.",
+        "errors": 3,
+        "predictions": [
+            "ADJ",
+            "NOUN",
+            "CCONJ",
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Even the least discriminating diner would know not to eat at Sprecher's.",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "Wonderful Atmosphere",
+        "errors": 2,
+        "predictions": [
+            "PRON",
+            "AUX"
+        ]
+    },
+    {
+        "sentence": "Channel Guide",
+        "errors": 2,
+        "predictions": [
+            "ADJ",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Thanks again, Directv.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "ADJ",
+            "NOUN"
+        ]
+    },
+    {
+        "sentence": "He's worth every penny.",
+        "errors": 3,
+        "predictions": [
+            "PRON",
+            "VERB",
+            "NUM",
+            "ADJ"
+        ]
+    },
+    {
+        "sentence": "Average food and deathly slow service",
+        "errors": 2,
+        "predictions": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "there might be bigger and more well known bagel places in the area but Family Bagels are nice people, small shop and incredibly friendly.",
+        "errors": 3,
+        "predictions": [
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ]
+    },
+    {
+        "sentence": "While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels",
+        "errors": 2,
+        "predictions": [
+            "NOUN",
+            "PROPN"
+        ]
+    },
+    {
+        "sentence": "Very Mediocre donuts!",
+        "errors": 3,
+        "predictions": [
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    }
+]
